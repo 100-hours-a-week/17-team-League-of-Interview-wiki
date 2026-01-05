@@ -1,3 +1,11 @@
+---
+name: PM-meeting
+about: PM 미팅 기록
+title: 'N회차-YYYY-MM-DD-pm-meeting'
+labels: PM-meeting
+assignees: ''
+---
+
 ## 1. 이번 주 스프린트 목표
 > **다음 PM미팅까지 반드시 달성되어야 하는 상태**
 
